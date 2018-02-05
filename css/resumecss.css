@@ -1,25 +1,32 @@
 body {
+
 	color: white;     
-	background-color: grey;     
+	background-color: grey;
 	font-style: bold:
-	font-family: Veranda; Geneva, Arial, Helvetica, sans-serif;  
+	font: Helvetica; 
 	}
 	
 .headlinks2 {
-	background-color: gray; 
-	color: white;
-	font-size: 12pt;     
-	font-family: Veranda; Geneva, Arial, Helvetica, sans-serif;
-	
+	border-style: solid;
+	border-color:black;
+	background-color: grey; 
+	color: white;     
+	font-family: Helvetica;
+	text-align: left;
+	margin:10px;
+	padding:20pt;
+	width: 75%;
 	}
 	
 p {
 	color: white; 
+	font-size:12pt;
 	 
 	}
-h2 
-	{ 
-	font-size: 18pt;     
+
+h1 { 
+
+	Text-align:left;	
 	font-style:italic; 
 	font-weight:bold; 
 	}
@@ -30,8 +37,7 @@ h3
 	font-weight:bold; 
 	}
 ul { 
-	color: white;
+	
 	font-size: 12pt;     
-	font-family: Veranda; Geneva, Arial, Helvetica, sans-serif;
 	
 }
