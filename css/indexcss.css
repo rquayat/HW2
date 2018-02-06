@@ -57,4 +57,11 @@ h3
 	font-style:italic; 
 	font-weight:bold; 
 	}
+#aboutme {
+	outline-style: solid;
+	outline-color:black;
+	background-color: grey;
+	font-size:18pt;
+	text-align:left;
+}
 	
