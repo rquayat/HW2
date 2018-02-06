@@ -1,0 +1,60 @@
+body {
+	background-image: url("../src/summer.jpg");
+	background-repeat:no-repeat;
+    background-size: cover;
+	color: white;     
+	background-color: grey;          
+	font-style: bold:
+	font: Helvetica;
+	max-width: 0 auto;
+	height: 0 auto;
+	margin: 0 auto;
+	}
+	
+.headlinks {
+	outline-style: solid;
+	outline-color:black;
+	background-color: navy; 
+	color: white;
+	font-size: 18pt;     
+	font-family: Helvetica;
+	text-align: left; 
+	margin: auto;
+	line-height:12pt; 
+	padding:20pt;
+	width: 0 auto;
+	}
+#menu {
+	outline-style: solid;
+	outline-color:black;
+	background-color: grey; 
+	color: white;
+	font-size: 18pt;     
+	font-family: Helvetica;
+	text-align: left; 
+	margin: 10px;
+	line-height:16pt; 
+	padding:20pt;
+	
+}
+
+	
+p {
+	color: black; 
+	font-size: 10pt; 
+	}
+
+h2 { 
+	font-size:36pt;
+	text-align:left;
+	font-style:italic; 
+	font-weight:bold; 
+	}
+	
+h3 
+	{ 
+	
+	font-style:italic; 
+	font-weight:bold; 
+	}
+	
