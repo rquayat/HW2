@@ -1,21 +1,26 @@
 body {
 
 	color: white;     
-	background-color: grey;
+	background-color: grey;         
 	font-style: bold:
-	font: Helvetica; 
+	font: Helvetica;
+	max-width: 0 auto;
+	height: 0 auto;
+	margin: 0 auto;
 	}
 	
 .headlinks2 {
-	border-style: solid;
-	border-color:black;
-	background-color: grey; 
-	color: white;     
+	outline-style: solid;
+	outline-color:black;
+	background-color: navy; 
+	color: white;
+	font-size: 18pt;     
 	font-family: Helvetica;
-	text-align: left;
-	margin:10px;
+	text-align: left; 
+	margin: auto;
+	line-height:12pt; 
 	padding:20pt;
-	width: 75%;
+	width: 0 auto;
 	}
 	
 p {
@@ -39,5 +44,24 @@ h3
 ul { 
 	
 	font-size: 12pt;     
+	
+}
+h2 { 
+	font-size: 36pt;  
+	text-align:left;
+	font-style:italic; 
+	font-weight:bold; 
+	}
+#menu {
+	outline-style: solid;
+	outline-color:black;
+	background-color: grey; 
+	color: white;
+	font-size: 18pt;     
+	font-family: Helvetica;
+	text-align: left; 
+	margin: 10px;
+	line-height:16pt; 
+	padding:20pt;
 	
 }
